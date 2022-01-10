@@ -1,19 +1,25 @@
 {
-    "name" : "stevenmaguire/trello-php",
-    "description" : "PHP wrapper for Trello API",
-    "keywords" : ["trello","php","client","wrapper","trello gold"],
-    "homepage" : "http://github.com/stevenmaguire/trello-php",
-    "license" : "MIT",
-    "authors" : [
+    "name": "stevenmaguire/trello-php",
+    "description": "PHP wrapper for Trello API",
+    "keywords": [
+        "trello",
+        "php",
+        "client",
+        "wrapper",
+        "trello gold"
+    ],
+    "homepage": "http://github.com/stevenmaguire/trello-php",
+    "license": "MIT",
+    "authors": [
         {
-            "name" : "Steven Maguire",
-            "email" : "stevenmaguire@gmail.com",
-            "homepage" : "http://stevenmaguire.com",
-            "role" : "Developer"
+            "name": "Steven Maguire",
+            "email": "stevenmaguire@gmail.com",
+            "homepage": "http://stevenmaguire.com",
+            "role": "Developer"
         }
     ],
-    "require" : {
-        "guzzlehttp/guzzle": "^6.0",
+    "require": {
+        "guzzlehttp/guzzle": "^7",
         "league/oauth1-client": "^1.5"
     },
     "require-dev": {
