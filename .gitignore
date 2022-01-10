@@ -1,6 +1,5 @@
 .DS_Store
 /build
-composer.lock
 docs
 /logs
 /vendor
