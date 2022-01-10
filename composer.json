@@ -1,5 +1,5 @@
 {
-    "name": "stevenmaguire/php-trello",
+    "name": "stevenmaguire/trello-php",
     "description": "PHP wrapper for Trello API",
     "keywords": [
         "trello",
