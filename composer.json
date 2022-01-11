@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/guzzle": "^6",
         "league/oauth1-client": "^1.5"
     },
     "require-dev": {
